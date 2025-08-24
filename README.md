@@ -1,2 +1,0 @@
-# StockMarketPrediction
-StockMarketPrediction Description
